@@ -13,7 +13,7 @@
 
 ![hanspeter dietiker GitHub stats](https://github-readme-stats.vercel.app/api?username=hanspeterdietiker&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker)
 
 
 Always looking for knowledge in the area. 😀
