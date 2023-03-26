@@ -9,7 +9,7 @@
 
  My social media:
  
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hanspeterdietiker)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hanspeterdietiker])
 
 ![hanspeter dietiker GitHub stats](https://github-readme-stats.vercel.app/api?username=hanspeterdietiker&show_icons=true&theme=dracula)
 
