@@ -15,7 +15,7 @@
 ##
 ![hanspeter dietiker GitHub stats](https://github-readme-stats.vercel.app/api?username=hanspeterdietiker&theme=gotham&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&theme=gotham)
 ##
 
 Always looking for knowledge in the area. 😀
