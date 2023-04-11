@@ -6,8 +6,7 @@
  
 ![IDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![JAVA](<img class="devicon-java-plain-wordmark colored"><30>)
-          
+![JAVA](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />)  
 
  My social media:
  
