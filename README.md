@@ -13,9 +13,9 @@
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanspeterdietiker)
 ##
-![hanspeter dietiker GitHub stats](https://github-readme-stats.vercel.app/api?username=hanspeterdietiker&theme=gotham&show_icons=true)
+<img height= "180em"src="https://github-readme-stats.vercel.app/api?username=hanspeterdietiker&theme=gotham&show_icons=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&theme=gotham)
+<img height= "180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&theme=gotham"/>
 ##
 
 Always looking for knowledge in the area. 😀
