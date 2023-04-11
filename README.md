@@ -19,6 +19,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&theme=gotham"/>
 </div>
+
 ##
 
 Always looking for knowledge in the area. 😀
