@@ -2,7 +2,7 @@
  
  This github is intended for weekly code practice and code sharing. 🤗
  ##
- Programming language I use and IDE:
+ Technologies|Tools I use:
  
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
