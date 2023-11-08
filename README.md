@@ -1,4 +1,4 @@
-### Hi, I'm a computer science student 😎☕
+## Hi, I'm a computer science student 😎☕
  
  This github is intended for weekly code practice and code sharing. 🤗
  ##
