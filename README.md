@@ -3,7 +3,7 @@
  This github is intended for weekly code practice and code sharing. 🤗
  ##
 
- ### Technologies|Tools I use:
+ ### Technologies | Tools I use:
 <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /> <img height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img height="65" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> <img height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   
 ##
