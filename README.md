@@ -19,7 +19,8 @@
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hanspeterdietiker&theme=aura&show_icons=true"/>
-<div>
+
+
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&layout=compact&langs_count=16&theme=aura"/>
 </div>
 
