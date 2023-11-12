@@ -1,6 +1,6 @@
 ## Hi, I'm a computer science student 😎☕
  
- This github is intended for weekly code practice and code sharing. 🤗
+ This github is intended for weekly code practice and code sharing. 
  ##
 
  ### Technologies | Tools I use:
@@ -22,6 +22,6 @@
 
 ##
 
-Always looking for knowledge in the area. 😀
+Always looking for knowledge in the area. 
 
 Look at the repositories and drink coffee or today that's all. 😎☕
