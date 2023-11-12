@@ -1,5 +1,8 @@
 ## Hi, I'm a computer science student 🧑🏼‍💻
- 
+ Always looking for knowledge in the area. 
+
+ Look at the repositories and drink coffee or today that's all. 😎☕
+
  This github is intended for weekly code practice and code sharing. 
  ##
 
@@ -20,8 +23,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&layout=compact&langs_count=16&theme=aura"/>
 </div>
 
-##
 
-Always looking for knowledge in the area. 
 
-Look at the repositories and drink coffee or today that's all. 😎☕
