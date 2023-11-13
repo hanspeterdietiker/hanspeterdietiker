@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanspeter Dietiker</h1>
+
 - 🌱 I’m currently learning **C# and .NET**
 
 - 👨‍💻 All of my projects are available at [github.com/hanspeterdietiker](github.com/hanspeterdietiker)
