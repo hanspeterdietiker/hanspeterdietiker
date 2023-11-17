@@ -21,7 +21,7 @@
 ##
 
 <div>
-<img width="200em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&layout=compact&langs_count=16&theme=darcula"/>
+<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&layout=compact&langs_count=16&theme=darcula"/>
 </div>
 
 
