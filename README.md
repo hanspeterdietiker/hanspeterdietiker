@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/hanspeterdietiker](github.com/hanspeterdietiker)
 
-- 💬 Ask me about **Java, Spring, C#, .Net **
+- 💬 Ask me about **Java, Spring, C#, .Net**
 
 - 📫 How to reach me **contactdevhanspeter@gmail.com**
   
