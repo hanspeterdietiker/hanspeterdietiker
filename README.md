@@ -1,10 +1,10 @@
 <h1 align="center">Hi 🙋🏼‍♂️ I'm Hanspeter Dietiker</h1>
 
-- 📚 I’m currently learning **ASP .NET CORE**
+- 📚 I’m currently learning **ApiRest**
 
 - 👨‍💻 All of my projects are available at [github.com/hanspeterdietiker](github.com/hanspeterdietiker)
 
-- 💬 Ask me about **Java, Spring, C#**
+- 💬 Ask me about **Java, Spring, C#, .Net **
 
 - 📫 How to reach me **contactdevhanspeter@gmail.com**
   
