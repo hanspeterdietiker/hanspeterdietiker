@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙋🏼‍♂️ I'm Hanspeter Dietiker</h1>
 
-- 📚 I’m currently learning **Architecture**
+- 📚 I’m currently learning **API Rest**
 
 - 👨‍💻 All of my projects are available at [github.com/hanspeterdietiker](github.com/hanspeterdietiker)
 
