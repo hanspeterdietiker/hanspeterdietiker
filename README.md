@@ -23,10 +23,6 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
 
-##
 
-<div>
-<img  height="200em" src="https://github-readme-stats.vercel.app/api?username=hanspeterdietiker&show_icons=true&theme=highcontrast"/>
-</div>
 
 
