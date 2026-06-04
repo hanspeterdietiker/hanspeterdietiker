@@ -1,12 +1,10 @@
 <h1 align="center">Hi 🙋🏼‍♂️ I'm Hanspeter Dietiker</h1>
 
-- 📚 I’m currently learning **API Rest**
+- 📚 I’m currently learning **Architecture and Design**
 
 - 👨‍💻 All of my projects are available at [github.com/hanspeterdietiker](github.com/hanspeterdietiker)
 
-- 💬 Ask me about **Java, Kotlin**
-
-- 📫 How to reach me **contactdevhanspeter@gmail.com**
+- 📥 How to reach me **contactdevhanspeter@gmail.com**
   
 - 👨🏼‍🎓 I'm majoring in **Computer Science**
 
