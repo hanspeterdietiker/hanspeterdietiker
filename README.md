@@ -1,29 +1,65 @@
-<h1 align="center">Hi 🙋🏼‍♂️ I'm Hanspeter Dietiker</h1>
+<div align="center">
 
-- 📚 I’m currently learning **Architecture and Design**
+<a href="README.md"><img src="https://img.shields.io/badge/lang-English-blue?style=flat-square" alt="English"/></a>
+<a href="README.pt-BR.md"><img src="https://img.shields.io/badge/lang-Português%20(BR)-green?style=flat-square" alt="Português (BR)"/></a>
 
-- 👨‍💻 All of my projects are available at [github.com/hanspeterdietiker](github.com/hanspeterdietiker)
+<h1>Hi there 👋, I'm Hanspeter Dietiker</h1>
 
-- 📥 How to reach me **contactdevhanspeter@gmail.com**
-  
-- 👨🏼‍🎓 I'm majoring in **Computer Science**
+<a href="https://github.com/hanspeterdietiker">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Developer;Learning+Software+Architecture+%26+Design" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+---
+
+### 🧑‍💻 About me
+
+I'm a **Computer Science** student who enjoys building full-stack applications, from robust Java/Spring back ends to clean, responsive React interfaces. Right now I'm focused on **Software Architecture and Design**: writing code that's not just working, but well-structured, maintainable, and built to scale.
+
+- 🔭 Currently studying **software architecture, design patterns, and clean code**
+- 🌱 Building projects with **Java, Spring Boot, React, and TypeScript**
+- 📂 All my projects are on [github.com/hanspeterdietiker](https://github.com/hanspeterdietiker)
+- 🤝 Open to collaborating on interesting projects and internship opportunities
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/hanspeterdietiker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanspeterdietiker" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,tailwind,mysql,git&perline=7" alt="Tech stack" />
+  </a>
+  <a href="https://claude.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="Claude" width="48" height="48"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="60" height="60"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="60" height="60"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="60" height="60"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>
-  <a href="https://claude.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="claude" width="60" height="60"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanspeterdietiker&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanspeterdietiker&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
+---
 
+### 📫 Connect with me
 
+<p align="left">
+  <a href="https://linkedin.com/in/hanspeterdietiker" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contactdevhanspeter@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/hanspeterdietiker">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<div align="center">
+  <sub>⭐ Thanks for stopping by!</sub>
+</div>
